@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Niranjan M</h1>
+<h2 align="center">Hi, I'm Niranjan M</h2>
 - 📫 How to reach me : niranjanmanohar02@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
